@@ -33,7 +33,7 @@ pip install Pillow
 *Run this for Gesture Control*
 ```python
 
-python vlc-gesture-control.py
+python vlc-Gesture-Control.py
 ```
 ## License & Copyright
 © [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
